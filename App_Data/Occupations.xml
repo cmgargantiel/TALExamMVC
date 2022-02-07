@@ -1,0 +1,32 @@
+﻿<Occupations>
+	<Occupation>
+		<Title>Cleaner</Title>
+		<Type>Light Manual</Type>
+		<Rating>1.50</Rating>
+	</Occupation>
+	<Occupation>
+		<Title>Doctor</Title>
+		<Type>Professional</Type>
+		<Rating>1.0</Rating>
+	</Occupation>
+	<Occupation>
+		<Title>Author</Title>
+		<Type>White Collar</Type>
+		<Rating>1.25</Rating>
+	</Occupation>
+	<Occupation>
+		<Title>Farmer</Title>
+		<Type>Heavy Manual</Type>
+		<Rating>1.75</Rating>
+	</Occupation>
+	<Occupation>
+		<Title>Mechanic</Title>
+		<Type>Heavy Manual</Type>
+		<Rating>1.75</Rating>
+	</Occupation>
+	<Occupation>
+		<Title>Florist</Title>
+		<Type>Light Manual</Type>
+		<Rating>1.50</Rating>
+	</Occupation>
+</Occupations>

@@ -1,0 +1,66 @@
+﻿#mainContainer {
+    margin: auto;
+    width: 40%;
+    border: 3px solid green;
+    padding: 10px;
+    background-color: white;
+    margin-top:60px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+#divOutput {
+    margin: auto;
+    width: 35%;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.col-md-10 {
+    margin-bottom: 20px;
+}
+
+body
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkseagreen;
+}
+
+input {
+    border: 1px solid #808080;
+    border-radius: 2px;
+    width: 300px;
+    height: 25px;
+}
+
+select {
+    width: 300px;
+    height: 25px;
+}
+
+#btnCalculate {
+    width: 130px;
+    height: 40px;
+    background-color: whitesmoke;
+    
+}
+
+#btnCalculate:hover {
+    background-color: darkseagreen;
+}
+
+#btnOuterDiv {
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+#btnInnerDiv {
+    margin: auto;
+    width: 55%;
+}
+
